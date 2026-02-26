@@ -3,10 +3,8 @@
     "username": "Seltherpython",
     "email": "mhaziqmahmood27@gmail.com"
   },
+  },
   "records": {
-    "NS": [
-      "ns1.vercel-dns.com",
-      "ns2.vercel-dns.com"
-    ]
+    "A": ["76.76.21.21"]
   }
 }
